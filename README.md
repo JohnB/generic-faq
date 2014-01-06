@@ -33,13 +33,14 @@ All status updates will be via twitter. If you want it by email you could probab
 
 Frequently Asked Questions (FAQ)
 --------------------------------
-See our github repository, which is probably a fork of https://github.com/JohnB/generic-faq , including the support tickets (which are the expected Q&A with our users).
+See the [Issues section] (https://github.com/JohnB/generic-faq/issues) of our github repository for questions that have been asked about the project or that we expect someone *will* ask about the project.
 
 Support
 -------
-"Support" is a vague term that usually means "people we pay to help you use our product". Which feels like a bit of an enabler for "areas we can cut costs and no one will notice for a little while". 
+"Support" is a vague term that usually means "people we pay to help you use our product". Which feels like a bit of an enabler for "areas we can cut costs and no one will notice for a little while". Fine print:
 
 Fine Print
 ----------
-You might have some expectations about your relationship with our project. Please see the Terms Of Service (TOS).
+You might have some expectations about your relationship with our project. Please see the [Terms Of Service (TOS)] (https://github.com/JohnB/generic-faq/blob/master/README.md#terms-of-service-tos).
+
 
